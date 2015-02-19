@@ -1,5 +1,5 @@
 {
-    "name": "ppalladino/Underscore.php",
+    "name": "ppalladino/underscore.php",
     "description" : "A fork of brianhaveri/Underscore.php",
     "type": "library",
     "require": {
