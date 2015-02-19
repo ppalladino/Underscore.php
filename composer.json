@@ -9,12 +9,13 @@
         "phpunit/phpunit": "~4.1"
     },
     "repositories" : [
-    {
-        "type": "vcs",
-        "url": "https://github.com/ppalladino/underscore.php"
-    }
-],
+        {
+            "type": "vcs",
+            "url": "https://github.com/ppalladino/underscore.php"
+        }
+    ],
     "autoload": {
-        "classmap": ["underscore.php"]
+        "classmap": ["underscore.php"],
+        "files": ["underscore.php"]
     }
 }
